@@ -10,9 +10,7 @@ public class MyonClickListener implements View.OnClickListener {
     }
 
     @Override
-    public void onCl
-
-    ick(View v) {
+    public void onClick(View v) {
         mainActivity.mTextView1.setText ("You Clicked JuRyun's Button");
 
 
